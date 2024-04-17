@@ -9,9 +9,9 @@ O trabalho consiste na criação de uma aplicação de lista de tarefas, com o o
 ## Membros
 
 - [Debora Goncalves](https://github.com/deboragoncalves1)
-  - RA: 32115662
+  - RA: xxx
 - [Emilly Lamas](https://github.com/Emylamass)
-  - RA: 322130095
+  - RA: xxx
 
 ## Descrição
 
